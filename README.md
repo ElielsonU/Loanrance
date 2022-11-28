@@ -3,7 +3,7 @@
 ------------------------
 > ### development progress...
 ------------------------
-- [X] Model the project database
+- [x] Model the project database
 - [ ] Create a figma prototype
     - [ ] implements
 - [ ] Make a API for the project
